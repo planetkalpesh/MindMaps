@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T07:38:40.700Z" agent="5.0 (Windows)" etag="QXV8kBcEcYhHs2dn3tkM" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-19T07:48:05.700Z" agent="5.0 (Windows)" etag="rfiwrtP-NYTJLpN7i3e_" version="13.1.2" type="github">
   <diagram id="SshQMSC1I4w36vEbC7pe" name="Page-1">
     <mxGraphModel dx="1231" dy="806" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BQvFcFdzDr9af9RYS4z4-1" value="7 Steps To Create A Process Flowchart" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontSize=18;strokeWidth=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="535" y="343" width="231" height="87" as="geometry" />
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-1" value="7 Steps To Create A Process Flowchart" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontSize=18;strokeWidth=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="459" y="292" width="307" height="138" as="geometry" />
         </mxCell>
         <mxCell id="BQvFcFdzDr9af9RYS4z4-24" value="1.GOAL" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeWidth=20;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="848" y="262" width="128" height="38" as="geometry" />
@@ -68,7 +68,7 @@
         </mxCell>
         <mxCell id="BQvFcFdzDr9af9RYS4z4-45" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeWidth=20;fontSize=28;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="BQvFcFdzDr9af9RYS4z4-44" parent="1" source="BQvFcFdzDr9af9RYS4z4-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="494" as="sourcePoint" />
+            <mxPoint x="742" y="408" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQvFcFdzDr9af9RYS4z4-46" value="PROCESS" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeWidth=5;fontSize=28;" vertex="1" parent="1">
@@ -130,6 +130,62 @@
               <mxPoint x="1010" y="350" />
               <mxPoint x="860" y="350" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-61" value="3. BRAINSTORM" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeWidth=20;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="730" y="656" width="244" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-62" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeWidth=20;fontSize=28;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="BQvFcFdzDr9af9RYS4z4-61" parent="1" source="BQvFcFdzDr9af9RYS4z4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="641" y="629" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-63" value="TASKS" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeWidth=5;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="697" width="117" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-64" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeWidth=5;fontSize=28;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="BQvFcFdzDr9af9RYS4z4-63" parent="1" source="BQvFcFdzDr9af9RYS4z4-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1021" y="759" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-65" value="MEET" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeWidth=5;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="770" width="105" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-66" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeWidth=5;fontSize=28;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="BQvFcFdzDr9af9RYS4z4-65" parent="1" source="BQvFcFdzDr9af9RYS4z4-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="992" y="752" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-67" value="USERS" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeWidth=5;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="750" width="123" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-68" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeWidth=5;fontSize=28;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="BQvFcFdzDr9af9RYS4z4-67" parent="1" source="BQvFcFdzDr9af9RYS4z4-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1206" y="808" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-69" value="&lt;strike&gt;MANAGEMENT&lt;/strike&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeWidth=5;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="829" width="228" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-70" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeWidth=5;fontSize=28;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="BQvFcFdzDr9af9RYS4z4-69" parent="1" source="BQvFcFdzDr9af9RYS4z4-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1175" y="908" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-74" value="IS" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeWidth=5;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="729" width="53" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-75" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeWidth=5;fontSize=28;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="BQvFcFdzDr9af9RYS4z4-74" parent="1" source="BQvFcFdzDr9af9RYS4z4-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="938.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-76" value="SHOULD" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeWidth=5;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1521" y="814" width="144" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BQvFcFdzDr9af9RYS4z4-77" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeWidth=5;fontSize=28;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="BQvFcFdzDr9af9RYS4z4-76" parent="1" source="BQvFcFdzDr9af9RYS4z4-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1481" y="872" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
